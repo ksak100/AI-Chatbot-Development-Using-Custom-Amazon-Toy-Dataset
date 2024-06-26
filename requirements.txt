@@ -1,0 +1,9 @@
+numpy
+pandas
+openai
+langchain
+tqdm
+pinecone-client[grpc]
+gradio
+tiktoken
+-e .
